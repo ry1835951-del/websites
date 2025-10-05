@@ -3,6 +3,7 @@
 [[toc]]
 
 ## Start Shizuku
+![Screenshot_2025-10-05-15-42-47-72_fc704e6b13c4fb26bf5e411f75da84f2](https://github.com/user-attachments/assets/2d55fc0b-b253-49cf-a070-63ecb0cc5f83)
 
 Shizuku supports startup in the following three ways.
 
